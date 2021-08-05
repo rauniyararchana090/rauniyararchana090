@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python and Djnago**
+- 💬 Ask me about **Python and Django**
 
 - 📫 How to reach me **rauniyararchana2@gmail.com**
 
